@@ -35,30 +35,11 @@ Tracks:
 - Resolution dates
 
 
-## SQL Skills Demonstrated
-
-- Database creation
-- Table relationships
-- Primary and foreign keys
-- JOIN operations
-- Aggregate functions
-- Data filtering
-- Date calculations
-- Business reporting
-
-
 ## Business Questions Answered
 
 - How many tickets are open?
 - What issues occur most frequently?
-- Which employees handle the most tickets?
+- Which employees handled the most tickets?
 - How quickly are issues resolved?
 - Which high priority issues require attention?
 
-
-## Future Improvements
-
-- Add Power BI dashboard
-- Add SLA tracking
-- Add automated reports
-- Add ticket categorization using AI
